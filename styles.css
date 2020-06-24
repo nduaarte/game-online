@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(224, 223, 223);
+  flex-direction: row;
+}
+
+canvas {
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  justify-content: flex-start;
+  width: 30%;
+}
+
